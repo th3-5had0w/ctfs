@@ -1,3 +1,2 @@
 # ctfs
-Sum ctfs
-Solve them if u can, lulz
+Sum ctfs, solve them if u can, lulz
